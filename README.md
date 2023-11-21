@@ -15,3 +15,5 @@
 ![Alt text](image-6.png)
 
 ![Alt text](image-7.png)
+
+![Alt text](performance_rewards_notif.png)
